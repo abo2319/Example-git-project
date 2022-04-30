@@ -5,3 +5,4 @@ print("距離",result)
 import geometry.line as line #太長可改別名
 result=line.slope(1,1,3,3)
 print("斜率",result)
+print('hello')
